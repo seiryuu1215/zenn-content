@@ -3,7 +3,7 @@ title: "IT初心者でもわかるNoSQLデータベース設計 — Firestoreで
 emoji: "🗄️"
 type: "tech"
 topics: ["firebase", "firestore", "database", "初心者向け"]
-published: false
+published: true
 ---
 
 ## データベースとは何か？

@@ -3,7 +3,7 @@ title: "IT初心者でもわかるAPI設計 — 25本のAPIルートをどう設
 emoji: "🔄"
 type: "tech"
 topics: ["nextjs", "api", "rest", "初心者向け"]
-published: false
+published: true
 ---
 
 ## APIとは何か？

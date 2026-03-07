@@ -3,7 +3,7 @@ title: "デュアル認証の設計と実装 — NextAuth × Firebase Auth × Fi
 emoji: "🔐"
 type: "tech"
 topics: ["nextjs", "firebase", "nextauth", "認証"]
-published: true
+published: false
 ---
 
 :::message

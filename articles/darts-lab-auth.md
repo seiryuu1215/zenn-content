@@ -106,4 +106,4 @@ export const POST = withPermission(canUseDartslive, 'PRO限定です', handler);
 
 ---
 
-*この記事は darts Lab（55,000行のダーツスタッツ管理アプリ）の実装を元に解説しています。*
+*この記事は darts Lab（67,000行のダーツスタッツ管理アプリ）の実装を元に解説しています。*

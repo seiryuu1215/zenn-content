@@ -1,6 +1,22 @@
-title: "Claude Codeで55,000行のWebアプリを3ヶ月で作った全記録"
+title: "Claude Codeで82,000行のWebアプリを3ヶ月で作った全記録"
 summary: "プロダーツ選手がAI駆動開発で、企画〜運用まで一人でフルスタックWebアプリを構築した実践記録"
 topics: ["claudecode", "nextjs", "firebase", "ai", "webapp"]
 published: true
 price: 0
 toc_depth: 2
+chapters:
+  - "01.why-i-built"
+  - "02.requirements"
+  - "03.tech-stack"
+  - "04.documents"
+  - "05.auth-payment"
+  - "06.firestore"
+  - "07.pair-programming"
+  - "08.security-review"
+  - "09.testing-cicd"
+  - "10.conclusion"
+  - "darts-lab-dual-auth"
+  - "darts-lab-stripe-flow"
+  - "darts-lab-line-statemachine"
+  - "darts-lab-defense-layers"
+  - "darts-lab-cron-pipeline"

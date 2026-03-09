@@ -1,5 +1,5 @@
 ---
-title: "82,000行のSaaSから抽出した Next.js + Firebase + Stripe スターターキットを公開した"
+title: "90,000行のSaaSから抽出した Next.js + Firebase + Stripe スターターキットを公開した"
 emoji: "🚀"
 type: "tech"
 topics: ["nextjs", "firebase", "stripe", "saas", "typescript"]
@@ -12,7 +12,7 @@ published: true
 
 https://saas-launcher.vercel.app
 
-自分が運用している 82,000行の SaaS（ダーツスコア管理アプリ）から、認証・決済・セキュリティの共通基盤を抽出して汎用化したものです。
+自分が運用している 90,000行の SaaS（ダーツスコア管理アプリ）から、認証・決済・セキュリティの共通基盤を抽出して汎用化したものです。
 
 **¥2,980** で販売しています。
 
@@ -170,7 +170,7 @@ https://saas-launcher.vercel.app
 
 ## まとめ
 
-- 82,000行の本番 SaaS から認証・決済・セキュリティを抽出
+- 90,000行の本番 SaaS から認証・決済・セキュリティを抽出
 - 日本語コード・日本語ドキュメント
 - 30分で動く状態になる
 - 実運用の知見が反映済み

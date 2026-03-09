@@ -1,5 +1,5 @@
 ---
-title: "82,000行のダーツアプリを1週間でどう磨いたか — darts Lab v3.2 開発日記"
+title: "90,000行のダーツアプリを1週間でどう磨いたか — darts Lab v3.2 開発日記"
 emoji: "🎯"
 type: "idea"
 topics: ["nextjs", "typescript", "claudecode", "個人開発"]

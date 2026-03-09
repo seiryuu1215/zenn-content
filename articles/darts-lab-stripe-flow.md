@@ -332,7 +332,7 @@ Stripe SDK のメジャーバージョンアップで `subscription.current_peri
 - **第5章「認証・課金の設計」**: 4つの Webhook イベント、冪等性の設計、Checkout Session の metadata 戦略を解説
 - **第3章「技術選定」**: Stripe を選んだ理由（PCI DSS 準拠、Hosted Page でカード情報を自前管理しない）
 
-> 📘 [Zenn Book: AI × 個人開発で82,000行のSaaSを作った方法](https://zenn.dev/seiryuuu_dev/books/claude-code-darts-lab)
+> 📘 [Zenn Book: AI × 個人開発で90,000行のSaaSを作った方法](https://zenn.dev/seiryuuu_dev/books/claude-code-darts-lab)
 
 ---
 

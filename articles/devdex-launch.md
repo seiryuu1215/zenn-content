@@ -3,7 +3,7 @@ title: "学歴も経歴も関係なかった。Claude Codeで5日・86,000行の
 emoji: "🧬"
 type: "tech"
 topics: ["claudecode", "nextjs", "supabase", "個人開発", "ai"]
-published: false
+published: true
 ---
 
 ## 私のスペック
@@ -32,8 +32,6 @@ SES時代にTypeScriptと出会い、3ヶ月で「参考があれば書ける」
 **[DevDex](https://devdex.dev)** — IT用語の理解度を記録・可視化して「自分の技術の現在地」を見える化するツール。
 
 > スキルシートがエンジニアの外面なら、DevDex は内面。
-
-<!-- TODO: メインのスクリーンショットを2〜3枚（ダッシュボード・診断結果・用語一覧） -->
 
 ### 30秒でわかるDevDex
 
@@ -92,8 +90,6 @@ DevDexの名前は Dev（開発者）+ Dex（図鑑、Indexの略）。ポケデ
 この記事の本題。DevDexの全コードは **Claude Code** で書いた。人間（自分）がやったのは**意思決定とフィードバック**だけ。
 
 ### 6体のサブエージェント体制
-
-<!-- TODO: サブエージェント体制の図解画像 -->
 
 Claude Codeの `.claude/agents/` に6体のエージェントを定義し、役割分担させた。
 

@@ -3,7 +3,7 @@ title: "90,000行のSaaSから抽出した Next.js + Firebase + Stripe スター
 emoji: "🚀"
 type: "tech"
 topics: ["nextjs", "firebase", "stripe", "saas", "typescript"]
-published: true
+published: false
 ---
 
 ## 作ったもの

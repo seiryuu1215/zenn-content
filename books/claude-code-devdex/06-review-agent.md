@@ -269,3 +269,9 @@ Review Agentの3つのツールの中で、最も活用度が高いのは `Grep`
 ---
 
 PM Agent → Implement Agent → Test Agent → Review Agentのパイプラインが品質を担保する仕組みを見てきた。第7章では、このパイプラインの副産物である「ログ」を日記に変換し、さらにZenn記事に昇華させる仕組みを解説する。
+
+:::message
+**あなたのエンジニアタイプを診断してみませんか？**
+登録不要・64問・約5分で、16タイプからあなたの技術傾向がわかります。
+:point_right: [DevDex エンジニアタイプ診断（無料）](https://devdex.dev/diagnosis)
+:::

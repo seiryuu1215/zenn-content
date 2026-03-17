@@ -1,5 +1,6 @@
 ---
 title: "DevDexとは何か"
+free: true
 ---
 
 ## 5日間・76時間で86,000行のSaaSを作った

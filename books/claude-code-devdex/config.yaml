@@ -1,5 +1,5 @@
 title: "Claude Code サブエージェント6体制で2,100テストのWebアプリを作った方法"
-summary: "PM・実装・テスト・レビュー・日記・ビジネスの6エージェントを駆使したAI駆動開発の実践記録。Next.js + Supabase で63 API・33ページ・2,100+テスト・334コミット・127コンポーネント・25意思決定記録のDevDexを開発した全工程を公開。"
+summary: "「エンジニアの内面を可視化する」SaaSを5日間・76時間で構築した全記録。エンジニアタイプ診断→SNSシェア→登録→用語管理→Pro課金の導線設計、Feature Gateによる「制限を壁ではなく試食にする」収益化戦略、6体のAIサブエージェントによる設計〜テスト〜レビューの自動化。CLAUDE.mdの書き方から失敗事例まで、出し惜しみなし。"
 topics: ["claudecode", "nextjs", "supabase", "ai", "個人開発"]
 published: true
 price: 500
